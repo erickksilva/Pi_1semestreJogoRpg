@@ -1,6 +1,6 @@
 # Pi_1semestreJogoRpg
 
-#Dentro do arquivo  src excute  menuInicial.java em um a IDE java.
+#Dentro do arquivo  src  -> imgGame excute ->  menuInicial.java em um a IDE java.
 O arquivo se trata de um jogo RPG com a narrativa de um explorador
 que acaba se perdendo e para sair precisa resolver os desafios en-
 contrados para rever a luz do dia novamente.
